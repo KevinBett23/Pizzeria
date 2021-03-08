@@ -1,5 +1,5 @@
-body{
-  background-color: black;
+*{
+  background-color: white;
 }
 #logo {
   background: none;
@@ -24,7 +24,7 @@ a {
   padding: 14px 16px;
 }
 #introduction {
-  background-image: url("../images/bg4.jpeg");
+  background-image: url("../assets/bg1.jpg");
   background-size: cover;
   text-align: center;
   background-position: center;
