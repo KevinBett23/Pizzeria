@@ -14,3 +14,80 @@
   float: right;
   color: grey;
 }
+a {
+  box-shadow: 10px 5px 5px grey;
+  font-family: "Bree Serif", serif;
+  font-size: 20px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+}
+#introduction {
+  background-image: url("../images/bg4.jpeg");
+  background-size: cover;
+  text-align: center;
+  background-position: center;
+  height: auto;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: "Gloria Hallelujah", cursive;
+  font-style: bold oblique;
+}
+#introduction h1 {
+  background: none;
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+#menu {
+  margin-right: auto;
+  margin-left: auto;
+  image-orientation: center;
+  text-align: center;
+}
+#menu h3 {
+  margin-top: 3%;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 30px;
+  color: orangered;
+}
+#mymenu {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2%;
+}
+.col-md-4 h5 {
+  margin-top: 3%;
+}
+#hawaaian {
+  text-align: center;
+  color: white;
+}
+#hawaaian img {
+  width: 90%;
+}
+#hawaaian p {
+  margin-bottom: 5%;
+}
+#bbq {
+  text-align: center;
+  color: white;
+}
+#bbq img {
+  width: 90%;
+}
+#bbq p {
+  margin-bottom: 5%;
+}
+#mushroom {
+  text-align: center;
+  color: white;
+}
+#mushroom img {
+  width: 90%;
+}
+#mushroom p {
+  margin-bottom: 5%;
+}
