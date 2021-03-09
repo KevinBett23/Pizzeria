@@ -1,17 +1,8 @@
 *{
   background-color: black;
 }
-#logo {
-  background: none;
-  float: left;
-  width: 50%;
-}
-#logo img {
-  background: none;
-  margin-top: 0.5%;
-}
 #topnav {
-  padding: 20px;
+  padding: 10px;
   float: right;
   color: grey;
 }
