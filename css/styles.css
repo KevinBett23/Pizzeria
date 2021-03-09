@@ -4,6 +4,7 @@
 #logo {
   background: none;
   float: left;
+  width: 50%;
 }
 #logo img {
   background: none;
@@ -66,8 +67,8 @@ a {
   color: white;
 }
 #hawaiian img {
-  width: 90%;
-  height: 90%;
+  width: 220px;
+  height: 220px;
 }
 #hawaiian p {
   margin-bottom: 5%;
@@ -78,8 +79,8 @@ a {
   color: white;
 }
 #bbq img {
-  width: 90%;
-  height: 90%;
+  width: 220px;
+  height: 220px;
 }
 #bbq p {
   margin-bottom: 5%;
@@ -89,8 +90,8 @@ a {
   color: white;
 }
 #mushroom img {
-  width: 90%;
-  height: 90%;
+  width: 220px;
+  height: 220px;
 }
 #mushroom p {
   margin-bottom: 5%;
